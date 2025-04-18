@@ -1,3 +1,4 @@
+![logo](https://github.com/chandanbhat63/chandanbhat63/blob/main/chandu.jpeg)
 <h1 align="center">Hi 👋, I'm Chandan Bhat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
